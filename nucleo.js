@@ -6,11 +6,12 @@ NodeList.prototype.addEventListerners = function(evt, callback) {
 };
 
 window.addEventListener('DOMContentLoaded', () => {
-  document.querySelectorAll('.pin')
-    .addEventListerners('mouseover', function() {
-    document.getElementById('info')
-        .firstChild.innerHTML = this.getAttribute('id')
-          + ': ' + this.getAttribute('inkscape:name'); 
+  let pins = document.querySelectorAll('.pin');
+
+  pins.addEventListerners('mouseover', function() {
+    let info = document.getElementById('info').firstChild;
+    info.innerHTML = this.getAttribute('id');
+    info.innerHTML += ': ' + this.getAttribute('inkscape:name');
   });
 }, false);
 
