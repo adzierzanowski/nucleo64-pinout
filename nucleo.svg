@@ -76,11 +76,11 @@
      inkscape:lockguides="false"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="375.53"
-     inkscape:cx="-33.269162"
-     inkscape:zoom="1.484859"
+     inkscape:cy="475.72744"
+     inkscape:cx="500.59104"
+     inkscape:zoom="0.69322773"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -88,34 +88,7 @@
      pagecolor="#ffffff"
      id="base"
      inkscape:snap-others="true"
-     inkscape:snap-nodes="false">
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide143"
-       orientation="0,-1"
-       position="72.008433,196.25289" />
-    <sodipodi:guide
-       inkscape:locked="false"
-       id="guide968"
-       orientation="0,-1"
-       position="40.37164,199.71394" />
-    <sodipodi:guide
-       position="45.044615,214.75106"
-       orientation="1,0"
-       id="guide21" />
-    <sodipodi:guide
-       position="166.0291,196.25289"
-       orientation="1,0"
-       id="guide23" />
-    <sodipodi:guide
-       position="149.07633,61.62722"
-       orientation="0,-1"
-       id="guide25" />
-    <sodipodi:guide
-       position="128.74325,56.335281"
-       orientation="0,-1"
-       id="guide27" />
-  </sodipodi:namedview>
+     inkscape:snap-nodes="false" />
   <g
      inkscape:label="outline"
      id="layer1"
@@ -123,7 +96,7 @@
     <path
        transform="matrix(0.37125,0,0,0.37125,-43.5,0)"
        d="M 485.62891 24.349609 L 107.73047 25.162109 C 103.0537 27.027384 98.716085 29.568823 97.238281 37.832031 L 97.396484 240.83203 L 236.67578 240.83203 C 236.67578 240.83203 245.53128 246.95287 236.50977 253.45898 C 218.47899 253.67129 97.396484 253.45898 97.396484 253.45898 L 97.259766 729.45898 C 99.974011 739.55913 104.11182 743.48885 109.03125 744.0332 L 198.91797 744.34961 L 217.14648 763.875 L 511.33789 763.875 L 528.81641 744.67578 L 709.86914 744.57031 C 717.4999 742.84765 720.4497 737.36978 721.58984 730.23828 L 721.58984 253.45898 L 578.39258 253.45898 C 574.8958 249.94113 573.09979 244.34988 578.17578 240.83203 L 721.58984 240.83203 L 722.67773 34.091797 C 720.84929 30.461817 719.43673 26.693498 711.3125 25.162109 L 554.22656 24.349609 L 485.62891 24.349609 z M 265.43359 240.83203 L 441.51562 240.83203 C 444.99937 244.20068 444.68765 250.09034 441.49805 253.45898 L 265.16406 253.45898 C 260.93859 251.53887 260.90822 242.48905 265.43359 240.83203 z M 478.16406 240.83203 L 547.1543 240.83203 C 550.69089 243.76639 552.00695 249.02918 547.11133 253.12695 L 478.00977 253.45898 C 472.17491 251.06536 472.71148 242.18175 478.16406 240.83203 z M 194.01562 256.88086 C 202.14981 258.17356 209.75613 260.27325 209.77148 273.16992 C 208.52679 281.05552 205.86954 288.03435 193.74805 288.92773 C 183.90812 288.54853 179.27757 283.02153 178.52539 273.16992 C 179.17464 258.46685 186.88478 258.22992 194.01562 256.88086 z M 627.86133 270.11133 C 636.86063 270.68975 642.60833 276.19472 643.61719 284.80469 C 641.97113 294.43014 638.11017 301.84042 626.62109 301.62305 C 615.11801 300.16788 612.50558 292.91558 611.75 284.45117 C 613.58079 271.89427 621.09801 270.62107 627.86133 270.11133 z M 489.95312 726.70898 C 502.24317 728.4661 503.72356 735.0199 504.05078 741.89258 C 503.33684 750.98968 499.22917 756.33418 489.68164 756.26172 C 481.91911 755.97318 476.0405 752.53911 475.04102 742.16211 C 475.23043 729.0653 482.46461 727.56843 489.95312 726.70898 z "
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.433382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       style="fill:#fefefe;stroke:#000000;stroke-width:0.433382;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
        id="path1612" />
     <path
        style="stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1"
